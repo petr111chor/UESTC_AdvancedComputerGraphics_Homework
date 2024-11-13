@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\programing\OpenGL\homework4\homework4\main.cpp(155,12): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\programing\OpenGL\homework4\homework4\main.cpp(155,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\homework4\homework4\main.cpp(155,27): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\programing\OpenGL\homework4\homework4\main.cpp(155,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\homework4\homework4\main.cpp(157,9): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\programing\OpenGL\homework4\homework4\main.cpp(157,9): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\programing\OpenGL\homework4\homework4\main.cpp(157,28): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\programing\OpenGL\homework4\homework4\main.cpp(157,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  homework4.vcxproj -> D:\programing\OpenGL\homework4\x64\Debug\homework4.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

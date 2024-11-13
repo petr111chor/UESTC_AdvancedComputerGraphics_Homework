@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\programing\OpenGL\homework1\homework1\main.cpp(65,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\programing\OpenGL\homework1\homework1\main.cpp(105,24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  homework1.vcxproj -> D:\programing\OpenGL\homework1\x64\Debug\homework1.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

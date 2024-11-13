@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\programing\OpenGL\homework3\homework3\main.cpp(108,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\programing\OpenGL\homework3\homework3\main.cpp(110,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\programing\OpenGL\homework3\homework3\main.cpp(112,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  homework3.vcxproj -> D:\programing\OpenGL\homework3\x64\Debug\homework3.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
